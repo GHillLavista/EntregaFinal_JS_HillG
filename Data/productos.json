@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juego de los Sentimientos",
+        "imagen": "Imagenes/sentim2_192.webp",
+        "descripcion": "El formato de juego clásico -tablero, tarjetas, fichas y dado- oficia de marco o encuadre donde poder comenzar a tomar contacto y charlar sobre lo que sentimos. ",
+        "precio": 1400,
+        "categoria": "emociones",
+        "stock": 50
+    },
+    {
+        "id": 2,
+        "nombre": "Miedos",
+        "imagen": "Imagenes/miedos1_192.webp",
+        "descripcion": "El juego miedos nos ofrece en forma lúdica, la posibilidad de acercarnos a nuestros temores e ir conociéndolos. De esta manera aprendemos que hay muchas alternativas para manifestarlo.",
+        "precio": 1200,
+        "categoria": "emociones",
+        "stock": 45
+    },  
+    {
+        "id": 3,
+        "nombre": "Enojos",
+        "imagen": "Imagenes/enojos2_192.webp",
+        "descripcion": "El juego enojos nos ofrece en forma lúdica la posibilidad de acercarnos a los enojos e ir conociéndolos. De esta manera aprendemos que hay muchas alternativas para manifestarlo.",
+        "precio": 1200,
+        "categoria": "emociones",
+        "stock": 38
+    },
+    {
+        "id": 4,
+        "nombre": "Mis personajes internos",
+        "imagen": "Imagenes/mispersonajes1_192.webp",
+        "descripcion": "Mis personajes internos es un material que permite observar con atención los \"personajes\" que habitan nuestro mundo interior. Favorece iluminar, profundizar y ampliar las problemáticas planteadas por los pacientes.",
+        "precio": 1300,
+        "categoria": "emociones",
+        "stock": 30
+    },
+    {
+        "id": 5,
+        "nombre": "A veces pienso que soy",
+        "imagen": "Imagenes/Aveces2_192.webp",
+        "descripcion": "Las cartas A veces pienso que soy fueron creadas como espejos donde ver reflejado lo que creemos o pensamos sobre nosotros mismos",
+        "precio": 1100,
+        "categoria": "emociones",
+        "stock": 25
+    },
+    {
+        "id": 6,
+        "nombre": "A la vez",
+        "imagen": "Imagenes/alavez.webp",
+        "descripcion": "A la vez es un juego en el que conocernos se vuelve un desafío divertido. A los chicos les encanta contestar las preguntas a la vez que realizan originales imitaciones. Es un juego pensado para preadolescentes y adolescentes.",
+        "precio": 1300,
+        "categoria": "emociones",
+        "stock": 20
+    }
+]

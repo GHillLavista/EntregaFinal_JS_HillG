@@ -1,0 +1,3 @@
+renderCarrito();
+renderBotonCarrito();
+renderizarCarrito();
